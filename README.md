@@ -2,7 +2,7 @@
 
 Trabajo Integrador UADE - Grupo 6 - Diseño y Desarrollo Web
 
-# Instrucciones para contrubuir
+# Instrucciones Para Contribuir
 
 Hay que instalar Git
 

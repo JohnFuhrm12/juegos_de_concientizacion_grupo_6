@@ -11,3 +11,5 @@ Hay que instalar Git
 3. En tu terminal en una carpeta donde queres clonar el repo corre (la tuya, no esta): git clone https://github.com/JohnFuhrm12/juegos_de_concientizacion_grupo_6.git
 4. Haz tu cambios - git push a tu repo (o si usas vs code, usar el boton)
 5. En tu repo, haz click en Contribute - Open Pull Request
+
+Antes de hacer nuevos cambios, siempre hay que hacer en la terminal: git pull https://github.com/JohnFuhrm12/juegos_de_concientizacion_grupo_6.git
